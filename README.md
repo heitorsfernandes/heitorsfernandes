@@ -5,9 +5,9 @@ const aboutMe = {
   rank: 'Web Developer',
   country: 'Brazil',
   hobbies: [
-    'paint',
-    'play games',
-    'languages',
+    'painting',
+    'playing games',
+    'learning new languages',
   ],
   softSkills: [
     'resilient',
