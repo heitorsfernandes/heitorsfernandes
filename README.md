@@ -1,8 +1,8 @@
 ```JavaScript
 const aboutMe = {
   name: 'Heitor Soares Fernandes',
-  age: '27',
-  rank: 'Web Developer',
+  age: '29',
+  rank: 'Full stack Developer',
   country: 'Brazil',
   hobbies: [
     'painting',
